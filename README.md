@@ -1,4 +1,4 @@
-# attandance-manager
+# ATTENDANCE MANAGEMNET SYSTEM
 
 ## PROJECT OVERVIEW 
 
